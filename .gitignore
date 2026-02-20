@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+*.env
+
+# Output / results files (never commit these)
+*.json
+*.txt
+*_hits.*
+*_payloads.*
+hits.txt
+command_hits.txt
+sqli_hits.log
+xss_cookie_hits.txt
+
+# IDE / editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Personal notes / temp files
+notes.md
+todo.txt
+temp/
