@@ -265,7 +265,7 @@ Docker Hub: https://hub.docker.com/r/mfaizanqayyum/red-team-payload-generation
 
 ## Author
 
-Built and maintained by Faizan Qayyum — for authorized security testing and research.
+Built and maintained by M Faizan Qayyum — for authorized security testing and research.
 
 ---
 
